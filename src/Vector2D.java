@@ -1,5 +1,3 @@
-package com.company;
-
 public class Vector2D {
 
     double x, y;

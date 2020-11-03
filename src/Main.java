@@ -6,8 +6,6 @@
 // public void sub(Vector2D other) - вычитает из вектора другой вектор
 // public void mult(double t) - умножить вектор на число
 
-package com.company;
-
 public class Main {
 
     public static void main(String[] args) {
